@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, this is Tamás Jákob's account for data science projects!
 
-<!--
-**mecalis/mecalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about data science and love to build data-driven solutions. Here’s what I do:
 
-Here are some ideas to get you started:
+📚 I create data science tutorials to help others learn and grow.
+💻 I build data-based products that solve real-world problems.
+🔧 I mostly work with Python.
+🌱 I enjoy learning and experimenting with new tools and techniques to stay on the cutting edge.
+⚙️ Automating the boring stuff with Python is my secret hobby.
+You can find more about me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Data36
+🔗 LinkedIn
